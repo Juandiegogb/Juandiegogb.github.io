@@ -32,7 +32,7 @@ main {
 h1 {
     margin: 0;
 }
-<   
+
 #input-original, #resultado {
     background-color: var(--color-terminal);
     width: -webkit-fill-available;
@@ -40,8 +40,8 @@ h1 {
 
 #input-original {
     margin: 10px 0 0;
-    padding: 10px;< 
-    color: #5af78d;
+    padding: 10px;
+    color: white;
     border-top-left-radius: var(--borde-redondo);
     border-top-right-radius: var(--borde-redondo);
 }
